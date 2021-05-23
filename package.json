@@ -1,0 +1,30 @@
+{
+  "name": "table-to-csv",
+  "version": "1.0.0",
+  "description": "A lightweight Javascript library for exporting HTML tables to a CSV file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gouthams96/table-to-csv.git"
+  },
+  "keywords": [
+    "csv",
+    "tabletocsv"
+  ],
+  "author": "goutham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gouthams96/table-to-csv/issues"
+  },
+  "homepage": "https://github.com/gouthams96/table-to-csv#readme",
+  "devDependencies": {
+    "ts-loader": "^9.2.2",
+    "typescript": "^4.2.4",
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
